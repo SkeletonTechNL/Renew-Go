@@ -76,5 +76,29 @@ Gevolgen:
 - Maandbedrag: Blijft hetzelfde 
 
 ## Stadsbedrijvenpark Ketellapper
+Infoblok duurzaamheid en gezondheid
+
 
 ## F.C. Amboina
+### Vraag: 
+#### Wat doe je met de voetbalclub?
+###### Optie 1: Je haalt de voetbalclub weg, en vervangt deze met windmolens. 
+Gevolgen:
+- Happines: -10%
+- CO2 Niveau: -10%
+- Geld: -€200.000
+- Maandbedrag: -€3.500
+
+###### Optie 2: Je haalt de voetbalclub weg, en vervangt deze met zonnepanelen. 
+Gevolgen:
+- Happines: -5%
+- CO2 Niveau: -5%
+- Geld: -€50.000
+- Maandbedrag: -€750
+
+###### Optie 3: Je laat de voetbalclub voor wat hij is. 
+Gevolgen: 
+- Happines: Blijft hetzelfde
+- CO2 niveau: Blijft hetzelfde
+- Geld: Blijft hetzelfde
+- Maandbedrag: Blijft hetzelfde 
