@@ -76,10 +76,34 @@ Gevolgen:
 - Maandbedrag: Blijft hetzelfde 
 
 ## Stadsbedrijvenpark Ketellapper
-Infoblok duurzaamheid en gezondheid
+Infoblok industrie en duurzaamheid
 
+### Vraag:
+#### Wat doe je met het industrieterrein?
+###### Optie 1: Je tast het gebied niet aan. 
+Gevolgen:
+- Happines: +10%
+- CO2 Niveau: +15%
+- Geld: Blijft hetzelfde
+- Maandbedrag: Blijft hetzelfde
+
+###### Optie 2: Sedemmos op daken plaatsen. 
+Gevolgen:
+- Happines: -5%
+- CO2 Niveau: -10%
+- Geld: -€2.000
+- Maandbedrag: Blijft hetzelfde
+
+###### Optie 3: Je installeerd zonnepanelen op de daken. 
+Gevolgen:
+- Happines: Blijft hetzelfde
+- CO2 Niveau: -20%
+- Geld: -€10.000
+- Maandbedrag: Blijft hetzelfde
 
 ## F.C. Amboina
+Infoblok duurzaamheid en gezondheid
+
 ### Vraag: 
 #### Wat doe je met de voetbalclub?
 ###### Optie 1: Je haalt de voetbalclub weg, en vervangt deze met windmolens. 
