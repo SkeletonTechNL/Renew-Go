@@ -1,7 +1,7 @@
 # Locaties
 ## de Bonte Wever
 Invloed van het verkeer op het millieu 
-*"veel mensen komen met de auto zelfs voor een extreem kleine afstand. 
+*"veel mensen komen met de auto zelfs voor een extreem kleine afstand.*
 
 ### Vraag:
 #### Wat doe je met de parkeerplekken van de Bonte Wever?
@@ -25,6 +25,8 @@ Gevolgen:
 - Maandelijkse inkomsten €0
 
 ## Drentsche Golf & Country Club
+
+
 
 ## Asserbos
 
