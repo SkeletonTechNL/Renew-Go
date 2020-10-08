@@ -57,7 +57,7 @@ Natuur en duurzaamheid infoblok
 ###### Optie 1: Je vervangt het bos met voorzieningen.
 Gevolgen: 
 - Happines: +10%
-- CO2 niveau: -7.5%
+- CO2 niveau: +7.5%
 - Geld: -€200.000
 - Maandbedrag: -€2.000
 
