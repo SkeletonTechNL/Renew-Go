@@ -125,4 +125,4 @@ Gevolgen:
 - Happines: Blijft hetzelfde
 - CO2 niveau: Blijft hetzelfde
 - Geld: Blijft hetzelfde
-- Maandbedrag: Blijft hetzelfde 
+- Maandbedrag: Blijft hetzelfde
